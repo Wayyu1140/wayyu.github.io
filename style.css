@@ -1,0 +1,31 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #0099ff;
+}
+
+.jumbotron img {
+  width: 200px;
+  height: 200px;
+  border: 5px solid aqua;
+}
+
+#galery {
+  background-color: #0099ff;
+}
+
+footer {
+  background-color: #0099ff;
+  padding-bottom: 5px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.galery-img {
+  width: 100%;
+}
+
+#project .row > * {
+  padding: 0;
+}
