@@ -25,7 +25,3 @@ section {
 .galery-img {
   width: 100%;
 }
-
-#project .row > * {
-  padding: 0;
-}
